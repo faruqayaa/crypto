@@ -16,7 +16,7 @@ Aplikasi ini dibuat untuk memenuhi tugas ujian tengah semester(UTS) mata kuliah 
 ## 📄 Dokumentasi Aplikasi
 
 📁 [PDF Laporan](docs/ScreenshotFull.pdf)  
-🌐 [Video dokumentasi](https://drive.google.com/file/d/1S6_9dCHlBIFktDx2FBLVoCF6pHg-RIuJ/view?usp=drive_link)
+🌐 [Video dokumentasi](https://drive.google.com/drive/folders/12gLUP-tL7GLCAZmR_5JKgVj5dMxRTnA5)
 
 
 ---
