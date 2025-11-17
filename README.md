@@ -4,7 +4,6 @@ Aplikasi ini dibuat untuk memenuhi tugas ujian tengah semester(UTS) mata kuliah 
 
 ---
 
-
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
